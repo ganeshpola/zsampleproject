@@ -1,0 +1,10 @@
+<mvc:View controllerName="zsampleproject.controller.View1"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m">
+    <Page id="page" title="{i18n>title}">
+    <content>
+    <Label text="Hello World" required="true"></Label>
+    <Input required="true"></Input>
+    </content>
+    </Page>
+</mvc:View>
