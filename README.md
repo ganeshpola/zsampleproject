@@ -1,2 +1,0 @@
-# zsampleproject
-Test
