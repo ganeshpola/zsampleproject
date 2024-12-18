@@ -5,6 +5,7 @@ sap.ui.define([
 
     return Controller.extend("zsampleproject.controller.View1", {
         onInit() {
+            //Ganesh Pola
         }
     });
 });
